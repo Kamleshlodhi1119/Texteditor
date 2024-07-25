@@ -46,6 +46,3 @@ Push to the branch:
 git push origin feature/YourFeature
 Open a pull request.
 
-Feel free to customize this README further based on your specific project details and requirements.
-
-This format ensures that commands (`bash` code snippets) and instructions are clearly distinguished and formatted for clarity and readability.
